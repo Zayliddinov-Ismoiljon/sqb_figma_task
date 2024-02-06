@@ -1,0 +1,63 @@
+.carousel_inner{
+  background-image: url(../../assets/images/layer_bg.png);
+  background-repeat: no-repeat;
+  background-size: 438px 432px;
+  background-position: bottom 0 right 35%;
+}
+
+.avtokredit_item{
+  background-image: url(../../assets/images/car.png);
+  background-repeat: no-repeat;
+  background-size: 276px 341px;
+  background-position: top 65px right 0px;
+}
+
+.depozit_item{
+  background-image: url(../../assets/images/foiz.png);
+  background-repeat: no-repeat;
+  background-size: 40px 40px;
+  background-position: top 28px left 27px;
+}
+
+.paket_item{
+  background-image: url(../../assets/images/paket_ico.png);
+  background-repeat: no-repeat;
+  background-size: 40px 40px;
+  background-position: top 28px left 27px;
+}
+
+.banking_item{
+  background-image: url(../../assets/images/ico_green2.png);
+  background-repeat: no-repeat;
+  background-size: 40px 40px;
+  background-position: top 28px left 27px;
+}
+
+.finans_item{
+  background-image: url(../../assets/images/finans_ico.png);
+  background-repeat: no-repeat;
+  background-size: 40px 40px;
+  background-position: top 28px left 27px;
+}
+
+.card_item{
+  background-image: url(../../assets/images/credit_card.png);
+  background-repeat: no-repeat;
+  background-size: 40px 40px;
+  background-position: top 28px left 27px;
+}
+
+
+.coins_item{
+  background-image: url(../../assets/images/coins_pic.png);
+  background-repeat: no-repeat;
+  background-size: 410px 360px;
+  background-position: bottom 0px right 0px;
+}
+
+.sme_item{
+  background-image: url(../../assets/images/solar_pic.png);
+  background-repeat: no-repeat;
+  background-size: 410px 360px;
+  background-position: bottom 0px right 0px;
+}
